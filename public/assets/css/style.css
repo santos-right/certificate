@@ -1,0 +1,25 @@
+.home-content {
+    position: relative;
+    z-index: 10;
+    max-width: 500px;
+    /* max-width: 600px; */
+}
+
+p {
+    margin: 20px 0 10px;
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.section {
+    height: 100vh;
+    align-items: center;
+}
+
+.passport {
+    height: 12rem;
+}
